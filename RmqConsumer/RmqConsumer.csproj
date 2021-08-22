@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B564B8B-35BF-41DC-96D4-F86860FEAB40}</ProjectGuid>
+    <ProjectGuid>{CB59F684-A37A-4E14-B7B1-DE536A286D47}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RabbitMqProducer</RootNamespace>
-    <AssemblyName>RabbitMqProducer</AssemblyName>
+    <RootNamespace>RmqConsumer</RootNamespace>
+    <AssemblyName>RmqConsumer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

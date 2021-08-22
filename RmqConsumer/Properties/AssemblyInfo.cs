@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RabbitMqTest")]
+[assembly: AssemblyTitle("RmqConsumer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RabbitMqTest")]
+[assembly: AssemblyProduct("RmqConsumer")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4313469e-779a-4386-a0f8-af314865e7af")]
+[assembly: Guid("cb59f684-a37a-4e14-b7b1-de536a286d47")]
 
 // Version information for an assembly consists of the following four values:
 //
